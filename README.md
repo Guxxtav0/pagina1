@@ -1,7 +1,7 @@
 # site desenvolvido por:
-## Gustavo Gabriel Maia Radelinski :smiling_imp:
-### Primeira aula programação HTML e CSS
+## :id: Gustavo Gabriel Maia Radelinski :capricorn:
+### Primeira aula programação HTML e CSS :link:
 ** áreas afins: **
-### Ed. fisica, Educação Financeira, Matematica :heart_eyes:
-### Jogar bola, Andar de bike, Comer :stuck_out_tongue: 
+### Ed. fisica, Educação Financeira :heart_eyes: ,Matematica
+### Jogar bola, Andar de bike, Comer :stuck_out_tongue: :100:
 
